@@ -14,7 +14,7 @@ Introducing Jangofet and Bobafet.
 It's an image heavy readme, so buckle up.  
 
 Jangofet is a Flex cable that works on either v1 or v2  
-Now this might be expensive to have made, But you will only need on cable, not 2.  
+Now this might be expensive to have made, But you will only need one cable, not 2.  
 ![image](https://github.com/user-attachments/assets/749e488b-0f25-4feb-9ee1-d746e3be66e3)  
 ![image](https://github.com/user-attachments/assets/8c765d55-7361-4e26-901a-a11e5adaf2b1)  
 ![image](https://github.com/user-attachments/assets/9547166d-2dff-4b57-bbdf-497bf745d76b)  
