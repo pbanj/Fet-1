@@ -17,8 +17,8 @@ Jangofet is a Flex cable that works on either v1 or v2
 Now this might be expensive to have made, But you will only need one cable, not 2.  
 ![image](https://github.com/user-attachments/assets/749e488b-0f25-4feb-9ee1-d746e3be66e3)  
 ![image](https://github.com/user-attachments/assets/8c765d55-7361-4e26-901a-a11e5adaf2b1)  
-![image](https://github.com/user-attachments/assets/9547166d-2dff-4b57-bbdf-497bf745d76b)  
-![image](https://github.com/user-attachments/assets/39db9935-7c8e-4744-a7e7-3b4b312ffc1c)  
+![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/jangofet/jangotop.png)  
+![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/jangofet/jangobottom.png)  
 
 Assembled boards can be ordered for around $75 for 25 of them, so like $3 a cable. The final price depends on the cost of parts. 
 
@@ -26,8 +26,8 @@ Because of the cost of flexible pcbs and having them assembled for you(if you do
 
 ![image](https://github.com/user-attachments/assets/528bd3b9-ca7f-4ae8-a64d-00e081cdc763)  
 ![image](https://github.com/user-attachments/assets/6a0cf1b9-d101-49c1-bcaf-0e3757d7cf66)  
-![image](https://github.com/user-attachments/assets/d40e1d84-9358-4873-bc6a-a1f10c17268d)  
-![image](https://github.com/user-attachments/assets/4bf398fa-315a-47c9-a61e-8dc0724474e7)  
+![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/bobafet/bobatop.png)   
+![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/bobafet/bobabottom.png)  
 
 Assembled boards can be ordered for around $20 for 25 of them, so like $0.80 a board. The final price depends on the cost of parts. 
 
