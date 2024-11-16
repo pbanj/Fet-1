@@ -16,7 +16,6 @@ It's an image heavy readme, so buckle up.
 Jangofet is a Flex cable that works on either v1 or v2  
 Now this might be expensive to have made, But you will only need one cable, not 2.  
 ![image](https://github.com/user-attachments/assets/749e488b-0f25-4feb-9ee1-d746e3be66e3)  
-![image](https://github.com/user-attachments/assets/8c765d55-7361-4e26-901a-a11e5adaf2b1)  
 ![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/jangofet/jangotop.png)  
 ![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/jangofet/jangobottom.png)  
 
@@ -29,7 +28,6 @@ Because of the cost of flexible pcbs and having them assembled for you(if you do
 The min board size Jlcpcb will assemble is 10x10 so you may have to file it down a little. I have also kept the holes all the same size on the larger end, so it’s cheaper to manufacture.  
 
 ![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/bobafet/bobafet-3D-top.png)  
-![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/bobafet/bobafet-3D-bottom.png)  
 ![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/bobafet/bobafettop.png)   
 ![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/bobafet/bobafetbottom.png)  
 
@@ -43,12 +41,12 @@ The min board size Jlcpcb will assemble is 10x10 so you may have to file it down
 I have also kept the holes all the same size on the larger end, so it’s cheaper to manufacture.  
 Ailynfet can be used with 1 or 2 mosfets.  
 The footprint is for [AON6792](https://www.aosmd.com/sites/default/files/res/datasheets/AON6792.pdf), [AON6512](https://www.aosmd.com/sites/default/files/res/datasheets/AON6512.pdf), & the [TPN8R903NL](https://toshiba.semicon-storage.com/info/TPN8R903NL_datasheet_en_20140218.pdf?did=14026&prodName=TPN8R903NL).
-The AON6792, and AON6512 are said to work with only 1 mosfet. The TPN8R903NL was said to work but it didn't say if it needed 1 or 2 mosfets. So there are 2 pads and a bridge point if need be.  
+The AON6792, and AON6512 are said to work with only 1 mosfet. The TPN8R903NL was said to work but it didn't say if it needed 1 or 2 mosfets. So there are 2 pads and bridge points if need be.  
+If using 2 mosfets you need to bridge 2 points, they're marked with lines on the PCB. They're also marked in the pictures.
 With all three of the boards I kept cost in mind while designing them.  
 
 
 ![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/ailynfet/ailynfet-3D-top.png)  
-![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/ailynfet/ailynfet-3D-bottom.png)  
 ![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/ailynfet/ailynfettop.png)   
 ![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/ailynfet/ailynfetbottom.png)  
 
