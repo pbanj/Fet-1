@@ -15,7 +15,7 @@ It's an image heavy readme, so buckle up.
 
 Jangofet is a Flex cable that works on either v1 or v2  
 Now this might be expensive to have made, But you will only need one cable, not 2.  
-![image](https://github.com/user-attachments/assets/749e488b-0f25-4feb-9ee1-d746e3be66e3)  
+![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/jangofet/jango-3D-top.png)  
 ![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/jangofet/jangotop.png)  
 ![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/jangofet/jangobottom.png)  
 
