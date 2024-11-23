@@ -5,6 +5,9 @@
 ._*
 .Spotlight-V100
 .Trashes
-ehthumbs.db
-Thumbs.db
+*.db
 *.Identifier
+EasyEDA_PCB_ailynfet-backups
+jlcpcb
+*EasyEDA_PCB*
+fp-info-cache
