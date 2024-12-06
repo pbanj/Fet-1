@@ -20,7 +20,7 @@ Now this might be expensive to have made, But you will only need one cable, not 
 ![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/jangofet/jangobottom.png)  
 
 Assembled boards can be ordered for around $75 for 25 of them, so like $3 a cable. The final price depends on the cost of parts. 
-Uses 2x [IRFHS8342PbF](https://www.infineon.com/dgdl/irfhs8342pbf.pdf?fileId=5546d462533600a401535623992e1f5f) or 2x [NP2016DR-N-G](https://www.lcsc.com/datasheet/lcsc_datasheet_2208231101_NATLINEAR-NP2016DR-N-G_C2991144.pdf)  
+Uses 2x [IRFHS8342PbF](https://www.infineon.com/dgdl/irfhs8342pbf.pdf?fileId=5546d462533600a401535623992e1f5f).
 
 ------------------------------------------------------------------------------------------------------------
 
