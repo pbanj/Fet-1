@@ -25,7 +25,8 @@ Uses 2x [IRFHS8342PbF](https://www.infineon.com/dgdl/irfhs8342pbf.pdf?fileId=554
 ------------------------------------------------------------------------------------------------------------
 
 Because of the cost of flexible pcbs and having them assembled for you(if you don’t want to hand assemble), I have also created Bobafet; a little 10mmX10mm pcb to achieve the same task.  
-The min board size Jlcpcb will assemble is 10x10 so you may have to file it down a little. I have also kept the holes all the same size on the larger end, so it’s cheaper to manufacture.  
+The min board size Jlcpcb will assemble is 10x10 so you may have to file it down a little. I have also kept the holes all the same size on the larger end, so it’s cheaper to manufacture. 
+Big change coming in a few hours. making each board "be 2 boards" so you get more for your money :D.   
 
 ![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/bobafet/bobafet-3D-top.png)  
 ![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/bobafet/bobafettop.png)   
@@ -40,8 +41,8 @@ Because of the cost of flexible pcbs and having them assembled for you(if you do
 The min board size Jlcpcb will assemble is 10x10 so you may have to file it down a little.  
 I have also kept the holes all the same size on the larger end, so it’s cheaper to manufacture.  
 Ailynfet can be used with 1 or 2 mosfets.  
-The footprint is for [AON6792](https://www.aosmd.com/sites/default/files/res/datasheets/AON6792.pdf), [AON6512](https://www.aosmd.com/sites/default/files/res/datasheets/AON6512.pdf), & the [TPN8R903NL](https://toshiba.semicon-storage.com/info/TPN8R903NL_datasheet_en_20140218.pdf?did=14026&prodName=TPN8R903NL).
-The AON6792, and AON6512 are said to work with only 1 mosfet. The TPN8R903NL was said to work but it didn't say if it needed 1 or 2 mosfets. So there are 2 pads and bridge points if need be.  
+The footprint is for ~~[AON6792](https://www.aosmd.com/sites/default/files/res/datasheets/AON6792.pdf), [AON6512](https://www.aosmd.com/sites/default/files/res/datasheets/AON6512.pdf), &~~ the [TPN8R903NL](https://toshiba.semicon-storage.com/info/TPN8R903NL_datasheet_en_20140218.pdf?did=14026&prodName=TPN8R903NL). i read the footprints wrong, theyre massive, will be making their own board.  
+The TPN8R903NL was said to work but it didn't say if it needed 1 or 2 mosfets. So there are 2 pads and bridge points if need be.  
 If using 2 mosfets you need to bridge 2 points, they're marked with lines on the PCB. They're also marked in the pictures.
 With all three of the boards I kept cost in mind while designing them.  
 
