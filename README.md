@@ -25,8 +25,7 @@ Uses 2x [IRFHS8342PbF](https://www.infineon.com/dgdl/irfhs8342pbf.pdf?fileId=554
 ------------------------------------------------------------------------------------------------------------
 
 Because of the cost of flexible pcbs and having them assembled for you(if you don’t want to hand assemble), I have also created Bobafet; a little 10mmX10mm pcb to achieve the same task.  
-The min board size Jlcpcb will assemble is 10x10 so you may have to file it down a little. I have also kept the holes all the same size on the larger end, so it’s cheaper to manufacture. 
-Big change coming in a few hours. making each board "be 2 boards" so you get more for your money :D.   
+The min board size Jlcpcb will assemble is 10x10 so you may have to file it down a little. I have also kept the holes all the same size on the larger end, so it’s cheaper to manufacture. It also is made to be cut in half so each board is actually 2. 
 
 ![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/bobafet/bobafet-3D-top.png)  
 ![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/bobafet/bobafettop.png)   
