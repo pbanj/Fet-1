@@ -57,3 +57,6 @@ I've included all the files, not just the Gerbers. It isn't really open if all y
 
 My license is, just give credit which is as simple as leaving the QR code as it links to this repo. I didn't do this to make money, I did this for the community.  
 Thanks to stashboy for taking measurements for me because my calipers were dead.
+
+
+Now with all the cool stuff out of the way here comes the dumb stuff. Ordering prototypes is fairly expensive. the pcbs themselves are not too expensive, but the parts add up quick. So if you woull like to help with current/future projects here is my [paypal](https://paypal.me/pbanj) this will help get pcbs done faster.  
