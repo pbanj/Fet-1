@@ -41,9 +41,9 @@ It's desinged for the PDFN3x3 footprint and for mosfets strong enough to be used
 Each board is technically 2 boards, JLCPCB wont assemble anything under 10x10mm so it is partially drilled in half so it still only counts as one. 
 Going off the specs this should work solo, I have some on their way to me now to personally test. So don't order yet
 
-![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/ailynfet/sintasfet-3D-top.png)  
-![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/ailynfet/sintasfettop.png)   
-![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/ailynfet/sintasbottom.png)
+![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/sintasfet/sintasfet-3D-top.png)  
+![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/sintasfet/sintasfettop.png)   
+![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/sintasfet/sintasbottom.png)
 
 ------------------------------------------------------------------------------------------------------------
 
