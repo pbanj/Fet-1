@@ -40,7 +40,7 @@ Each board is technically 2 boards, JLCPCB wont assemble anything under 10x10mm 
 If you order just the paneled not assembled you can get 250 of them for under $10. That's the smallest order you can have made at JLC, 5 panels. 
 5 panels with each panel having 25 boards which are then turned into 2 boards making a total of 250 boards.  
 Assembled boards can be ordered for around $94 for 250 of them, so like $0.38 a board. The final price depends on the cost of parts. 
-These prices are about the same for all the other fet boards.  
+These prices are about the same for Sintasfet. For Ailynfet it works out to $0.72 per board as you only get 125 boards total. 
 Uses 2x [IRFHS8342PbF](https://www.infineon.com/dgdl/irfhs8342pbf.pdf?fileId=5546d462533600a401535623992e1f5f)  
 
 ------------------------------------------------------------------------------------------------------------
@@ -61,6 +61,7 @@ The min board size Jlcpcb will assemble is 10x10 so you may have to file it down
 I have also kept the holes all the same size on the larger end, so it’s cheaper to manufacture.  
 Ailynfet can be used with 2 mosfets.  
 The footprint is for the [TPN8R903NL](https://toshiba.semicon-storage.com/info/TPN8R903NL_datasheet_en_20140218.pdf?did=14026&prodName=TPN8R903NL). 
+PDFN3x3 footprint mosfets should fit also as the footprints are almost identical.    
 With all four of the boards I kept cost in mind while designing them.  
 
 
