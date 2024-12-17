@@ -41,6 +41,7 @@ If you order just the paneled not assembled you can get 250 of them for under $1
 5 panels with each panel having 25 boards which are then turned into 2 boards making a total of 250 boards.  
 Assembled boards can be ordered for around $94 for 250 of them, so like $0.38 a board. The final price depends on the cost of parts. 
 These prices are about the same for Sintasfet. For Ailynfet it works out to $0.72 per board as you only get 125 boards total. 
+Should order these and the other boards no thicker than .6mm thick.  
 Uses 2x [IRFHS8342PbF](https://www.infineon.com/dgdl/irfhs8342pbf.pdf?fileId=5546d462533600a401535623992e1f5f)  
 
 ------------------------------------------------------------------------------------------------------------
