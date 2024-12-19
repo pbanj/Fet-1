@@ -9,13 +9,13 @@ After a long wait, I've finally done it.
 
 These are the PCBs you're looking for.   
 
-Introducing Jangofet, Bobafet, Sintasfet, & Ailynfet. 
+Introducing Jangofet, Bobafet, Sintasfet, & Ailynfet.  
 
 It's an image heavy readme, so buckle up.  
 
-Jangofet is a Flex cable that works on either v1 or v2.  
+Jangofet is a Flex cable that works on either v1 or v2.   
 Now this might be expensive to have made, But you'll only need one cable, not 2.  
-All holes are .3mm to help with keeping the price down. Also have some on order now to make sure they fit the v1 properly.  
+All holes are .3mm to help with keeping the price down. Also have some on order now to make sure they fit the v1 properly.   
 I have a feeling you may have to cut the copper on the left which can be done without worry as it's all looped. You can cut both of the | and the cable will still function.  
 I've also added a pad so you can cut the cable and attach it using wires.  
  
@@ -23,9 +23,9 @@ I've also added a pad so you can cut the cable and attach it using wires.
 ![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/jangofet/jangotop.png)  
 ![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/jangofet/jangobottom.png)  
 
-Assembled boards can be ordered for around $175 for 5 panels of them which have 18 cables each so you get 90 cables total, so like $1.95 a cable. The final price depends on the cost of parts.  
+Assembled boards can be ordered for around $175 for 5 panels of them which have 18 cables each so you get 90 cables total, so like $1.95 a cable. The final price depends on the cost of parts.   
 Also you can have them save the framework and stencil for $5 a month and it will make future orders cheaper. Together theyre about $100 of the initial cost.  
-So without them it's about $75 for 5 panels which makes the final per cable cost about $0.84 per cable.  
+So without them it's about $75 for 5 panels which makes the final per cable cost about $0.84 per cable.   
 Uses 2x [IRFHS8342PbF](https://www.infineon.com/dgdl/irfhs8342pbf.pdf?fileId=5546d462533600a401535623992e1f5f).  
 
 ------------------------------------------------------------------------------------------------------------  
@@ -75,8 +75,23 @@ I've included all the files, not just the Gerbers. It isn't really open if all y
 
 
 
-My license is, just give credit which is as simple as leaving the QR code as it links to this repo. I didn't do this to make money, I did this for the community.  
-Thanks to stashboy for taking measurements for me because my calipers were dead.
+My license is, just give credit which is as simple as leaving the QR code as it links to this repo. I didn't do this to make money, I did this for the community and to see if i could.  
+Thanks to stashboy for taking measurements for me because my calipers were dead.  
 
 
-Now with all the cool stuff out of the way here comes the dumb stuff. Ordering prototypes is fairly expensive. the pcbs themselves are not too expensive, but the parts add up quick. So if you would like to help with current/future projects here is my [paypal](https://paypal.me/pbanj) this will help get pcbs done faster.  
+Now with all the cool stuff out of the way here comes the dumb stuff. Ordering prototypes is fairly expensive.  
+The pcbs themselves are not too expensive, but the parts add up quick.  
+So if you'd like to help with current/future projects here is my [paypal](https://paypal.me/pbanj) this will help get pcbs done faster.  
+
+# Donators  
+Want to thank  
+
+[Lazer1026](https://github.com/Lazr1026)  
+[Emerekt](https://github.com/Emerekt-git) 
+
+
+#Disclaimer
+Important: This is for educational purposes only.
+
+Neither I nor the contributors are not responsible for any misuse or damage caused by this project.  
+Use at your own risk and only on systems you own or have explicit permission to test.
