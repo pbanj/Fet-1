@@ -23,9 +23,6 @@ I've also added a pad so you can cut the cable and attach it using wires.
 ![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/jangofet/jangotop.png)  
 ![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/jangofet/jangobottom.png)  
 
-Assembled boards can be ordered for around $175 for 5 panels of them which have 18 cables each so you get 90 cables total, so like $1.95 a cable. The final price depends on the cost of parts.   
-Also you can have them save the framework and stencil for $5 a month and it will make future orders cheaper. Together theyre about $100 of the initial cost.  
-So without them it's about $75 for 5 panels which makes the final per cable cost about $0.84 per cable.   
 Uses 2x [IRFHS8342PbF](https://www.infineon.com/dgdl/irfhs8342pbf.pdf?fileId=5546d462533600a401535623992e1f5f).  
 
 ------------------------------------------------------------------------------------------------------------  
@@ -49,11 +46,7 @@ Each board is technically 2 boards, JLCPCB wont assemble anything under 10x10mm 
 ![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/bobafet/bobafettop.png)   
 ![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/bobafet/bobafetbottom.png)  
 
-If you order just the paneled not assembled you can get 250 of them for under $10. That's the smallest order you can have made at JLC, 5 panels.  
-5 panels with each panel having 25 boards which are then turned into 2 boards making a total of 250 boards.  
-Assembled boards can be ordered for around $94 for 250 of them, so like $0.38 a board. The final price depends on the cost of parts. 
-These prices are about the same for Sintasfet. For Ailynfet it works out to $0.72 per board as you only get 125 boards total.  
-Should order these and the other boards no thicker than .6mm thick.  
+Should order these and the other boards no thicker than .6mm.  
 Uses 2x [IRFHS8342PbF](https://www.infineon.com/dgdl/irfhs8342pbf.pdf?fileId=5546d462533600a401535623992e1f5f)  
 
 ------------------------------------------------------------------------------------------------------------  
@@ -75,8 +68,6 @@ I have also kept the holes all the same size on the larger end, so it’s cheape
 Ailynfet can be used with 2 mosfets.   
 The footprint is for the [TPN8R903NL](https://toshiba.semicon-storage.com/info/TPN8R903NL_datasheet_en_20140218.pdf?did=14026&prodName=TPN8R903NL).  
 PDFN3x3 footprint mosfets should fit also as the footprints are almost identical.  
-With all four of the boards I kept cost in mind while designing them.   
-
 
 ![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/ailynfet/ailynfet-3D-top.png)  
 ![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/ailynfet/ailynfettop.png)   
@@ -95,6 +86,36 @@ Now with all the cool stuff out of the way here comes the dumb stuff. Ordering p
 The pcbs themselves are not too expensive, but the parts add up quick.  
 So if you'd like to help with current/future projects here is my [paypal](https://paypal.me/pbanj) this will help get pcbs done faster.  
 
+#Price Breakdowns:
+Some rough estimates of their costs.  
+Cables and boards that use the IRFHS8342PbF are ballparked as jlc doesnt have enough stock to get an acurate price.  
+I kept cost in mind while making them. No hole is under .3mm.  
+The panels for the boards are all 70x70mm which is what they will expand smaller boards to and then just toss the unused substraight so you might as well get what you pay for.  
+Paneled cables are 82~x72~mm.  
+
+- Jangofet:
+	- Assembled cables can be ordered for around $175 for 5 panels of them which have 18 cables each so you get 90 cables total, so like $1.95 a cable. The final price depends on the cost of parts.   
+	- Also you can have them save the framework and stencil for $5 a month and it will make future orders cheaper. Together theyre about $100 of the initial cost.  
+	- So without them it's about $75 for 5 panels which makes the final per cable cost about $0.84 per cable.  
+
+- Arlafet:  
+	- should be about the same as jango as it is also a flex cable.  
+	- only needs 1 mosfet which are about 7 cents each. So it should end up cheaper than jango.  
+
+- Bobafet:  
+	- If you order just the paneled pcb you can get 250 of them for under $10. That's the smallest order you can have made at JLC, 5 panels.  
+5 panels with each panel having 25 boards which are then turned into 2 boards making a total of 250 boards.  
+	- Assembled boards can be ordered for around $94 for 250 of them, so like $0.38 a board. The final price depends on the cost of parts.  
+
+- Sintasfet:  
+	- You can get 500 of them assembled for about $150. Each board is made to be cut into 4 boards. So a min order of 5 gets you 500 usable boards.  
+	- The TM80N03DF runs between 6 & 8 cents depending where and how many you buy.  
+	- Non assembled are the same price as boba but you get 500 total instead of 250.  
+
+- Ailynfet:
+	- Non assembled should be the same as the other boards
+	- No clue about assembled.
+
 # Donators  
 Want to thank  
 
@@ -105,5 +126,5 @@ Want to thank
 #Disclaimer
 Important: This is for educational purposes only.
 
-Neither I nor the contributors are not responsible for any misuse or damage caused by this project.  
+Neither I nor the contributors are responsible for any misuse or damage caused by this project.  
 Use at your own risk and only on systems you own or have explicit permission to test.
