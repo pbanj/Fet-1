@@ -9,7 +9,7 @@ After a long wait, I've finally done it.
 
 These are the PCBs you're looking for.   
 
-Introducing Jangofet, Bobafet, Sintasfet, & Ailynfet.  
+Introducing Jangofet, Arlafet, Bobafet, Sintasfet, & Ailynfet.  
 
 It's an image heavy readme, so buckle up.  
 
@@ -27,6 +27,18 @@ Assembled boards can be ordered for around $175 for 5 panels of them which have 
 Also you can have them save the framework and stencil for $5 a month and it will make future orders cheaper. Together theyre about $100 of the initial cost.  
 So without them it's about $75 for 5 panels which makes the final per cable cost about $0.84 per cable.   
 Uses 2x [IRFHS8342PbF](https://www.infineon.com/dgdl/irfhs8342pbf.pdf?fileId=5546d462533600a401535623992e1f5f).  
+
+------------------------------------------------------------------------------------------------------------  
+
+Arlaofet is a Flex cable that works on either v1 or v2.   
+Now this might be expensive to have made, But you'll only need one cable, not 2.  
+All holes are .3mm to help with keeping the price down. Also have some on order now to make sure they fit the v1 properly.   
+I have a feeling you may have to cut the copper on the left which can be done without worry as it's all looped. You can cut both of the | and the cable will still function.  
+I've also added a pad so you can cut the cable and attach it using wires.  
+It's desinged for the PDFN3x3 footprint and for mosfets strong enough to be used alone like the [TM80N03DF](https://www.lcsc.com/datasheet/lcsc_datasheet_2411121145_Tritech-MOS-TM80N03DF_C7463225.pdf).   
+
+![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/arlafet/arlatop.png)  
+![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/arlafet/arlabottom.png)  
 
 ------------------------------------------------------------------------------------------------------------  
 
