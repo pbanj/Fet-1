@@ -86,7 +86,7 @@ Now with all the cool stuff out of the way here comes the dumb stuff. Ordering p
 The pcbs themselves are not too expensive, but the parts add up quick.  
 So if you'd like to help with current/future projects here is my [paypal](https://paypal.me/pbanj) this will help get pcbs done faster.  
 
-#Price Breakdowns:
+# Price Breakdowns:
 Some rough estimates of their costs.  
 Cables and boards that use the IRFHS8342PbF are ballparked as jlc doesnt have enough stock to get an acurate price.  
 I kept cost in mind while making them. No hole is under .3mm.  
@@ -123,7 +123,7 @@ Want to thank
 [Emerekt](https://github.com/Emerekt-git) 
 
 
-#Disclaimer
+# Disclaimer
 Important: This is for educational purposes only.
 
 Neither I nor the contributors are responsible for any misuse or damage caused by this project.  
