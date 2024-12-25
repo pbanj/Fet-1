@@ -30,7 +30,7 @@ Uses 2x [IRFHS8342PbF](https://www.infineon.com/dgdl/irfhs8342pbf.pdf?fileId=554
 
 ------------------------------------------------------------------------------------------------------------  
 
-Arlaofet is a Flex cable that works on either v1 or v2.   
+Arlafet is a Flex cable that works on either v1 or v2.   
 Now this might be expensive to have made, But you'll only need one cable, not 2.  
 All holes are .3mm to help with keeping the price down. Also have some on order now to make sure they fit the v1 properly.   
 I have a feeling you may have to cut the copper on the left which can be done without worry as it's all looped. You can cut both of the | and the cable will still function.  
