@@ -48,8 +48,8 @@ Uses 2x [IRFHS8342PbF](https://www.infineon.com/dgdl/irfhs8342pbf.pdf?fileId=554
 
 Because mosfets can be pricey and so can getting pcbs made, I have also created Sintasfet; a little 10mmX10mm pcb to achieve the same task.  
 It's desinged for the PDFN3x3 footprint and for mosfets strong enough to be used alone like the [TM80N03DF](https://www.lcsc.com/datasheet/lcsc_datasheet_2411121145_Tritech-MOS-TM80N03DF_C7463225.pdf).  
-Each board is technically 2 boards, JLCPCB wont assemble anything under 10x10mm so it is partially drilled in half so it still only counts as one.  
-Going off the specs this mosfet should work solo, I have some of the mosfet on their way to me now to personally test. So don't order yet.  
+Each board is technically 4 boards, JLCPCB wont assemble anything under 10x10mm so it is partially drilled in half so it still only counts as one.  
+~~Going off the specs this mosfet should work solo, I have some of the mosfet on their way to me now to personally test. So don't order yet.~~ They work great.  
 
 ![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/sintasfet/sintasfet-3D-top.png)  
 ![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/sintasfet/sintasfettop.png)   
