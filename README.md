@@ -118,16 +118,16 @@ Paneled cables are 82~x72~mm.
 
 Now with all the cool stuff out of the way here comes the dumb stuff. Ordering prototypes is fairly expensive.  
 The pcbs themselves are not too expensive, but the parts add up quick.  
-So if you'd like to help with current/future projects here is my [paypal](https://paypal.me/pbanj), [Buy me a coffee](https://buymeacoffee.com/pbanj), and directly through [my site](https://shop.pbanjin.space/product/tip).   
+So if you'd like to help with current/future projects here is my [Paypal](https://paypal.me/pbanj), [Buy me a coffee](https://buymeacoffee.com/pbanj), and directly through my [Website](https://shop.pbanjin.space/product/tip).   
 This will help get pcbs done faster.  
 
 # Donators  
 
-Want to thank  
+I want to thank 
 
 [Lazer1026](https://github.com/Lazr1026)  
 [Emerekt](https://github.com/Emerekt-git)  
-Thanks to stashboy for taking measurements for me because my calipers were dead.
+Stashboy for taking measurements for me because my calipers were dead.
 
 # Disclaimer  
 
