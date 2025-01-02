@@ -123,11 +123,11 @@ Paneled cables are 82~x72~mm.
 Want to thank  
 
 [Lazer1026](https://github.com/Lazr1026)  
-[Emerekt](https://github.com/Emerekt-git) 
+[Emerekt](https://github.com/Emerekt-git)  
 
 
-# Disclaimer
-Important: This is for educational purposes only.
+# Disclaimer  
 
-Neither I nor the contributors are responsible for any misuse or damage caused by this project.  
-Use at your own risk and only on systems you own or have explicit permission to test.  
+- This is for educational purposes only.  
+- Neither I nor the contributors are responsible for any misuse or damage caused by this project.  
+- Use at your own risk and only on systems you own or have explicit permission to test.  
