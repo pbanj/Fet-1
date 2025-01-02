@@ -80,14 +80,9 @@ Panel is 5x5, and there are already edge rails and tooling holes.
 I've included all the files, not just the Gerbers. It isn't really open if all you give is the Gerbers.  
 
 
+# License
+My license is, just give credit which is as simple as leaving the QR code as it links to this repo. I didn't do this to make money, I did this for the community and to see if I could.  
 
-My license is, just give credit which is as simple as leaving the QR code as it links to this repo. I didn't do this to make money, I did this for the community and to see if i could.  
-Thanks to stashboy for taking measurements for me because my calipers were dead.  
-
-
-Now with all the cool stuff out of the way here comes the dumb stuff. Ordering prototypes is fairly expensive.  
-The pcbs themselves are not too expensive, but the parts add up quick.  
-So if you'd like to help with current/future projects here is my [paypal](https://paypal.me/pbanj) this will help get pcbs done faster.  
 
 # Price Breakdowns:
 Some rough estimates of their costs.  
@@ -119,12 +114,20 @@ Paneled cables are 82~x72~mm.
 	- Non assembled should be the same as the other boards
 	- No clue about assembled.
 
+# Help fund current and future projects  
+
+Now with all the cool stuff out of the way here comes the dumb stuff. Ordering prototypes is fairly expensive.  
+The pcbs themselves are not too expensive, but the parts add up quick.  
+So if you'd like to help with current/future projects here is my [paypal](https://paypal.me/pbanj), [Buy me a coffee](https://buymeacoffee.com/pbanj), and directly through [my site](https://shop.pbanjin.space/product/tip).   
+This will help get pcbs done faster.  
+
 # Donators  
+
 Want to thank  
 
 [Lazer1026](https://github.com/Lazr1026)  
 [Emerekt](https://github.com/Emerekt-git)  
-
+Thanks to stashboy for taking measurements for me because my calipers were dead.
 
 # Disclaimer  
 
