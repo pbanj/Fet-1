@@ -16,7 +16,6 @@ It's an image heavy readme, so buckle up.
 Jangofet is a Flex cable that works on either v1 or v2.   
 Now this might be expensive to have made, But you'll only need one cable, not 2.  
 All holes are .3mm to help with keeping the price down. Also have some on order now to make sure they fit the v1 properly.   
-I have a feeling you may have to cut the copper on the left which can be done without worry as it's all looped. You can cut both of the | and the cable will still function.  
 I've also added a pad so you can cut the cable and attach it using wires.  
 Panel is 6x3, and there are already edge rails and tooling holes.  
  
@@ -31,7 +30,6 @@ Uses 2x [IRFHS8342PbF](https://www.infineon.com/dgdl/irfhs8342pbf.pdf?fileId=554
 Arlafet is a Flex cable that works on either v1 or v2.   
 Now this might be expensive to have made, But you'll only need one cable, not 2.  
 All holes are .3mm to help with keeping the price down. Also have some on order now to make sure they fit the v1 properly.   
-I have a feeling you may have to cut the copper on the left which can be done without worry as it's all looped. You can cut both of the | and the cable will still function.  
 I've also added a pad so you can cut the cable and attach it using wires.  
 It's desinged for the PDFN3x3 footprint and for mosfets strong enough to be used alone like the [TM80N03DF](https://www.lcsc.com/datasheet/lcsc_datasheet_2411121145_Tritech-MOS-TM80N03DF_C7463225.pdf).  
 Panel is 6x3, and there are already edge rails and tooling holes.  
