@@ -34,6 +34,7 @@ I've also added a pad so you can cut the cable and attach it using wires.
 It's desinged for the PDFN3x3 footprint and for mosfets strong enough to be used alone like the [TM80N03DF](https://www.lcsc.com/datasheet/lcsc_datasheet_2411121145_Tritech-MOS-TM80N03DF_C7463225.pdf).  
 Panel is 6x3, and there are already edge rails and tooling holes.  
 
+![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/arlafet/arla-3D-top.png)
 ![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/arlafet/arlatop.png)  
 ![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/arlafet/arlabottom.png)  
 
