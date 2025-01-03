@@ -89,7 +89,7 @@ Some rough estimates of their costs.
 Cables and boards that use the IRFHS8342PbF are ballparked as jlc doesnt have enough stock to get an acurate price.  
 I kept cost in mind while making them. No hole is under .3mm.  
 The panels for the boards are all 70x70mm which is what they will expand smaller boards to and then just toss the unused substraight so you might as well get what you pay for.  
-Paneled cables are 82~x72~mm.  
+Paneled cables are 82.65x70.18mm.  
 
 - Jangofet:
 	- Assembled cables can be ordered for around $175 for 5 panels of them which have 18 cables each so you get 90 cables total, so like $1.95 a cable. The final price depends on the cost of parts.   
