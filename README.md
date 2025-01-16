@@ -53,7 +53,9 @@ Uses 2x [IRFHS8342PbF](https://www.infineon.com/dgdl/irfhs8342pbf.pdf?fileId=554
 
 ------------------------------------------------------------------------------------------------------------  
 
-Because mosfets can be pricey and so can getting pcbs made, I have also created Sintasfet; a little 10mmX10mm pcb to achieve the same task.  
+I've updated bobafet and sintasfet boards to be 11x10mm so they are easier to cut apart. The panel size is still 70x70mm
+
+Because mosfets can be pricey and so can getting pcbs made, I have also created Sintasfet; a little 11mmX10mm pcb to achieve the same task.  
 It's desinged for the PDFN3x3 footprint and for mosfets strong enough to be used alone like the [TM80N03DF](https://www.lcsc.com/datasheet/lcsc_datasheet_2411121145_Tritech-MOS-TM80N03DF_C7463225.pdf).  
 Each board is technically 4 boards, JLCPCB wont assemble anything under 10x10mm so it is partially drilled in half so it still only counts as one.  
 ~~Going off the specs this mosfet should work solo, I have some of the mosfet on their way to me now to personally test. So don't order yet.~~ They work great.  
@@ -66,7 +68,7 @@ Panel is 5x5, and there are already edge rails and tooling holes.
 ------------------------------------------------------------------------------------------------------------  
 
 Because of the cost of flexible pcbs and having them assembled for you(if you don’t want to hand assemble), & so you can use a different mosfet. I have also created Ailynfet; a little 10mmX10mm pcb to achieve the same task.  
-The min board size Jlcpcb will assemble is 10x10 so you may have to file it down a little.   
+The min board size Jlcpcb will assemble is 11x10 so you may have to file it down a little.   
 I have also kept the holes all the same size on the larger end, so it’s cheaper to manufacture.   
 Ailynfet can be used with 2 mosfets.   
 The footprint is for the [TPN8R903NL](https://toshiba.semicon-storage.com/info/TPN8R903NL_datasheet_en_20140218.pdf?did=14026&prodName=TPN8R903NL).  
