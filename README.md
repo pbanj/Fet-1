@@ -64,6 +64,10 @@ Panel is 5x5, and there are already edge rails and tooling holes.
 ![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/sintasfet/sintasfet-3D-top.png)  
 ![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/sintasfet/sintasfettop.png)   
 ![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/sintasfet/sintasfetbottom.png)  
+![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/sintasfet/sintaspanel.jpg)  
+![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/sintasfet/sintasliteinstall.jpg)  
+![image](https://github.com/pbanj/Fet-1/raw/refs/heads/main/sintasfet/sintasbackinstall.jpg)  
+
 
 ------------------------------------------------------------------------------------------------------------  
 
